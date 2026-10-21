@@ -33,3 +33,26 @@ Customer and Segment Analysis An analysis of customer behavior, customer segment
 🖼️ Dashboard Preview Screenshots of the dashboard pages are available in this repository.
 
 👩‍💻 Project Purpose This project demonstrates practical skills in data analysis, interactive dashboard development, data visualization, and business intelligence using Power BI.
+
+
+## 🖼️ Dashboard Preview
+
+### 1. Dashboard Menu
+
+![Dashboard Menu](dashboard-menu.png)
+
+### 2. Sales Overview
+
+![Sales Overview](sales-overview.png)
+
+### 3. Product Analysis
+
+![Product Analysis](product-analysis.png)
+
+### 4. Delivery Analysis
+
+![Delivery Analysis](delivery-analysis.png)
+
+### 5. Customer and Segment Analysis
+
+![Customer and Segment Analysis](customer-segment-analysis.png)
