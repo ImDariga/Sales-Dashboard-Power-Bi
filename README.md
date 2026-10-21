@@ -4,6 +4,7 @@ Interactive Sales Dashboard created in Power BI to analyze sales performance, pr
 ##🎯 Project Overview 
 The purpose of this project is to analyze sales data and transform it into meaningful insights through interactive visualizations and key performance indicators (KPIs). 
 
+
 ##📑 Dashboard Pages
 -Dashboard Menu The main navigation page that provides access to different sections of the report.
 
